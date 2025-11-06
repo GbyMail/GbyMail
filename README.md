@@ -32,7 +32,7 @@
 
 ### 🎯 Quick Install (Recommended)
 
-1. **Download** the latest installer: `GbyMail_2.3.0.exe`
+1. **Download** the latest installer: `GbyMail_2.4.0.exe`
 2. **Run** the installer (no admin rights required)
 3. **Choose** your installation options:
    - ✅ Associate PDF files with GbyMail
