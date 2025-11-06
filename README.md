@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![GbyMail Logo](https://img.shields.io/badge/GbyMail-v2.3.0-blue?style=for-the-badge&logo=fax)
+![GbyMail Logo](https://img.shields.io/badge/GbyMail-v2.4.0-blue?style=for-the-badge&logo=fax)
 ![Platform](https://img.shields.io/badge/Platform-Windows-informational?style=for-the-badge&logo=windows)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![WebView2](https://img.shields.io/badge/WebView2-Required-orange?style=for-the-badge&logo=microsoft-edge)
