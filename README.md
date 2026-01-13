@@ -1,4 +1,4 @@
-# 📠 GbyMail - Internet by Fax PDF Viewer
+# 📠 GbyMail - Internet by Fax PDF Viewer ![GitHub Downloads (latest release)](https://img.shields.io/github/downloads/GbyMail/GbyMail/latest/total)
 
 <div align="center">
 
